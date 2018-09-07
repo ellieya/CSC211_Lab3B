@@ -1,0 +1,9 @@
+==============================================
+Log: test
+==============================================
+
+Total amount gallons sold (full-service): 0.10
+Total $ gallons sold (full-service): 0.40
+Total amount of gallons sold (self-service): 0.00
+Total $ of gallons sold (self-service): 0.00
+Gas remaining in main tank: 9.90
