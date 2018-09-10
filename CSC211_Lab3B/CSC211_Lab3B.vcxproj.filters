@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Jiali_Chen_Lab3B_implementation.cpp">
+    <ClCompile Include="Jiali_Chen_Lab3B_driver.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Jiali_Chen_Lab3B_driver.cpp">
+    <ClCompile Include="Jiali_Chen_Lab3B_implementation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\test.txt">
-      <Filter>Source Files</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\Jiali_Chen_Lab3B_header.h">
+    <ClInclude Include="Jiali_Chen_Lab3B_header.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
